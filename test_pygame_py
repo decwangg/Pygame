@@ -47,7 +47,7 @@ class TestGame(unittest.TestCase):
                 self.assertEqual(villians[0]['x'], 300)
                 self.assertEqual(villians[0]['y'], 50)
 
-    # Add more tests for other game features as needed
+    
 
 if __name__ == '__main__':
     unittest.main()
