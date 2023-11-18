@@ -1,4 +1,4 @@
-# Pygame description
+# Pygame Test description
 This code is a set of unit tests for a game, using the unittest framework and by use of mock (patch from unittest) to isolate specific parts of the code for testing in Python. Unit testing is a software testing technique where individual units or components of a software are tested in isolation from the rest of the application. The test is designed to assess the behavior of a game, implemented using the Python library. The game involve three characters namely ; flower,bullets, and villains.
 
 
@@ -54,10 +54,10 @@ Here's a break down of the code:
 
     1. Pygame: https://www.pygame.org/
     2. unittest — Unit testing framework: https://docs.python.org/3/library/unittest.html
-
-
-
-
-
-   
-
+    3. https://www.youtube.com/watch?v=JJ9zZ8cyaEk
+       https://www.youtube.com/watch?si=S12ryN5bv1VyYxj_&fbclid=IwAR3EglZae-QalhJKiVTTNoNgAC8r1-- 
+       dlFEw5jJbwKqri_zDAtKsu1WZ4tU&v=v1MtwCPTmBI&feature=youtu.be
+       https://www.youtube.com/watch?si=8V9ULoW1nwVc8gxe&fbclid=IwAR2PbuOp4PcRZH58C3yKuEWHB7Jm-NF- 
+       O4_I5IxBTolhVNIAqXLnNLJorM8&v=96mDQrlceEk&feature=youtu.be
+       https://www.youtube.com/watch?v=mzlH8lp4ISA
+       
